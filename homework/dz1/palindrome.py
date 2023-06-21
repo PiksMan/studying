@@ -1,3 +1,4 @@
+
 def palindrome_searching(str):
     if len(str) % 2 != 0:
         centre = len(str)//2

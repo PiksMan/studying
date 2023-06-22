@@ -1,0 +1,29 @@
+h1 {
+    background: aqua;
+}
+
+.paragraph-1 {
+    font-size: 32pt;
+    color: blue;
+}
+
+.paragraph-2 {
+    border: 10px solid red;
+    border-radius: 20px;
+    font-size: 43pt;
+    margin-bottom: 60px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: Comic Sans MS;
+}
+.paragraph-4 {
+    font-style: oblique;
+    font-size: 24pt;
+    text-align: center;
+    text-shadow: 2px 2px 3px green;
+}

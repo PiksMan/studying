@@ -1,0 +1,23 @@
+#header, .module caption {
+    background: #000080
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited{
+    color: #def
+}
+
+#header {
+    color: #def
+}
+
+#content-related h3 {
+    color: #000080
+}
+
+a:link, a:visited {
+    color: #002bff
+}
+
+thead th a:link, thead th a:visited, thead th, tfoot td {
+    color: #000080
+}
